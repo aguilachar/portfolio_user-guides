@@ -2,15 +2,35 @@
 
 There are three dragons, _**Otr**_, _**Reginn**_, and _**Fafnir**_, captured and locked up in three different regions aross the Lake of Nine in Midgard. Read on to find out all three dragon locations, which Favors to complete, and how to free all three of them.
 
+<!-- TOC -->
+
 <details>
 <summary>Table of Contents</summary>
 <br>
 
--   [Veithurgard](##veithurgard)
--   [Konunsgard](##konunsgard)
--   [The Mason's Channel](##themason'schannel)
+- [All Dragon Locations and How to Free Dragons](#all-dragon-locations-and-how-to-free-dragons)
+  - [Veithurgard (_Otr_)](#veithurgard-_otr_)
+    - [Otr's Imprisonment](#otrs-imprisonment)
+      - [How to Find the Dragon Shrines](#how-to-find-the-dragon-shrines)
+        - [Veithurgard Dragon Shrine #1](#veithurgard-dragon-shrine-1)
+        - [Veithurgard Dragon Shrine #2](#veithurgard-dragon-shrine-2)
+        - [Veithurgard Dragon Shrine #3](#veithurgard-dragon-shrine-3)
+  - [Konunsgard (_Reginn_)](#konunsgard-_reginn_)
+    - [The Fire of Reginn](#the-fire-of-reginn)
+      - [How to Find the Dragon Shrines](#how-to-find-the-dragon-shrines-1)
+        - [Konunsgard Dragon Shrine #1](#konunsgard-dragon-shrine-1)
+        - [Konunsgard Dragon Shrine #2](#konunsgard-dragon-shrine-2)
+        - [Konunsgard Dragon Shrine #3](#konunsgard-dragon-shrine-3)
+  - [The Mason's Channel (_Fafnir_)](#the-masons-channel)
+    - [The Flight of Fafnir](#the-flight-of-fafnir)
+      - [How to Find the Dragon Shrines](#how-to-find-the-dragon-shrines-2)
+        - [The Mason's Channel Dragon Shrine #1](#the-masons-channel-dragon-shrine-1)
+        - [The Mason's Channel Dragon Shrine #2](#the-masons-channel-dragon-shrine-2)
+        - [The Mason's Channel Dragon Shrine #3](#the-masons-channel-dragon-shrine-3)
 
-</details>
+  </details>
+
+<!-- /TOC -->
 
 ## Veithurgard (_Otr_)
 
@@ -92,7 +112,7 @@ Past the cave, head to the sealed door and enter the area. Continue towards the 
 
 ---
 
-## The Mason's Channel
+## The Mason's Channel (_Fafnir_)
 
 ### The Flight of Fafnir
 
