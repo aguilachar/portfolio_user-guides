@@ -58,7 +58,7 @@ From the dock, follow the path and climb up the stairs leading to Otr. At the to
   <img width="720" height="480" src="https://img.game8.co/3471384/6f17cc2160f7b14b7e188bfb8ea22227.png/show">
 </p>
 
-Starting from the [first dragon shrine](#####dragonshrine#1), head left and walk up towards the grassy hill to find the second dragon.
+Starting from the [first dragon shrine](#veithurgard-dragon-shrine-1), head left and walk up towards the grassy hill to find the second dragon.
 
 
 ##### Veithurgard Dragon Shrine #3
@@ -100,7 +100,7 @@ From the ledge where Reginn is chained to, jump on the other side of the path an
   <img width="720" height="480" src="https://img.game8.co/3471410/b3ea2331c700dac71354a6fd30296350.png/show">
 </p>
 
-Head left from the [first dragon shrine](#####konunsgarddragonshrine#1) and continue along the cliff towards the cave to find the second dragon shrine.
+Head left from the [first dragon shrine](#konunsgard-dragon-shrine-1) and continue along the cliff towards the cave to find the second dragon shrine.
 
 ##### Konunsgard Dragon Shrine #3
 
@@ -139,7 +139,7 @@ As soon as you enter the area, walk up the stairs to the west of Fafnir to find 
   <img width="720" height="480" src="https://img.game8.co/3471425/641f34fdd6ce5ca0271d2f970b7ddbc6.png/show">
 </p>
 
-From the [first dragon shrine](#####themason'schanneldragonshrine#1), turn right and head towards a cavern to find the second dragon shrine.
+From the [first dragon shrine](#themasons-channel-dragonshrine-1), turn right and head towards a cavern to find the second dragon shrine.
 
 ##### The Mason's Channel Dragon Shrine #3
 
